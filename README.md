@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP,CSS**
 
-- 📫 How to reach me **rakib@rakibhasanraj.com**
+- 📫 How to reach me **https://rakibhasanraj.com/**
 
 - 📄 Know about my experiences [https://rakibhasanraj.com/#resume-e](https://rakibhasanraj.com/#resume-e)
 
